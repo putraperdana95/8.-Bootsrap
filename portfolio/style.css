@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #457b9d;
+  color: white;
+}
+
+hr {
+  width: 250px;
+  margin: 0 auto;
+  height: 2px;
+}
+
+section img {
+  width: 25%;
+}
+
+.text-white a {
+  text-decoration: none;
+}
+
+section {
+  padding-top: 5rem;
+}
